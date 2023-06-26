@@ -1,0 +1,18 @@
+:root {
+	--bg-color: #0B0E27;
+	--text-color: #FCFCFC;
+	
+	--link-bg-color: #2a1f48;
+	--link-text-color: #FDFDFD;
+}
+
+body {
+	background-color: var(--bg-color);
+	color: var(--text-color);
+}
+
+a {
+	background-color: var(--link-bg-color);
+	color: var(--link-text-color);
+}
+

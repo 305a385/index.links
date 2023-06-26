@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+img {
+	height: 50px;
+	width: 50px;
+	border-radius: 999999px;
+}
+
+a {
+	border-radius: 999999px;
+	text-decoration: none;
+	padding: 10px;
+
+	display: flex;
+	flex-direction: column;
+
+	margin: 0 15px;
+}
+
+a:hover {
+	filter: brightness(.8);
+}
