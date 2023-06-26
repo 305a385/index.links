@@ -13,10 +13,7 @@ an index of links
 coming soon!
 
 ## Bugs
-
-- If you put index.links in a subdirectory (e.g. `site.tld/links` instead of `site.tld`) then you have to add "/" to the end of the url in order for it to work:
-  e.g. `site.tld/links/` instead of `site.tld/links`
-
+None known
 
 ## License
 GNU AGPL v3-or-later, view file titled `LICENSE` in root directory of project

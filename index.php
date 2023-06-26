@@ -11,6 +11,12 @@
 		header('Location: ' . $links[$linkName]);
 		die();
 	}
+
+	// add trailing slash
+	if (rtrim($_SERVER['REQUEST_URI'],"/") === $_SERVER['REQUEST_URI']){
+		header('Location: ' . $_SERVER['REQUEST_URI'] . '/');
+	}
+
 ?>
 
 <html lang='en'>
