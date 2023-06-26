@@ -9,8 +9,7 @@ an index of links
 - Private
 - Lightweight
 
-## Installation & configuration guide
-
+## Installation
 coming soon!
 
 ## Bugs
