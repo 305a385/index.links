@@ -10,7 +10,7 @@ an index of links
 - Lightweight
 
 ## Installation
-coming soon!
+[View the wiki](https://github.com/305a385/index.links/wiki/Installation)
 
 ## Bugs
 None known
