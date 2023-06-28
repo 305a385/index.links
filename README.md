@@ -1,4 +1,5 @@
-# index.links
+[moved to codeberg](https://codeberg.org/305a385/index.links)
+index.links
 
 an index of links
 
